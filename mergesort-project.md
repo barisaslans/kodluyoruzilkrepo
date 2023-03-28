@@ -12,5 +12,4 @@ Big-O gösterimini yazınız.
  5.adım  [11,16,21]     [8,12,22]
  6.adım      [8,11,12,16,21,22]
  
- 
 Big O Notation -> O(logn)
